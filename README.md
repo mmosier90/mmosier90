@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mmosier90
+- 👀 I’m interested in displaying my works in a GitHub portfolio.
+- 🌱 I’m currently learning data analytics.
+- 📫 Email me at mmosier90@gmail.com
